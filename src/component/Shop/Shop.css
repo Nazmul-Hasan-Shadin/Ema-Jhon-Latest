@@ -1,0 +1,9 @@
+.shop-container{
+    display: flex;
+}
+
+.product-container{
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+}

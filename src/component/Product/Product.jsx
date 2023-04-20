@@ -18,7 +18,7 @@ const Product = (props) => {
 
             </div>
             <button onClick={() =>handleAddToCart(props.product)} className='btn-cart'>
-             hi   </button>
+            Add TO Cart   </button>
         </div>
     );
 };
