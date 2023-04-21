@@ -23,7 +23,7 @@ const granddTotal= totalPrice+totalShipping+tax;
             <p>Shiping COst : $ {totalShipping} </p>
             <p> Tax : {tax}</p>
             <p> Grand Total : $ {granddTotal.toFixed(2)} </p>
-            <button>Clear Cart </button>
+            <button className='clear-cart'>Clear Cart </button>
             
         </div>
     );

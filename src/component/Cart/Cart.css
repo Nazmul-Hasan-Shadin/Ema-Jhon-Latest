@@ -1,4 +1,9 @@
 .cart{
     width: 34%;
     position: fixed;
+    background-color: rgba(255, 153, 0, 0.3);
+    padding: 25px;
+    top: 0;
+    margin-right: 23px;
+
 }
